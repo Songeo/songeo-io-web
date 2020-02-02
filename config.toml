@@ -1,0 +1,111 @@
+baseURL = "/"
+languageCode = "sp"
+title = "SonGeo"
+theme = "personal-web"
+copyright="©SonGeo"
+googleAnalytics = ""
+enableEmoji=true
+enableRobotsTXT=true
+pygmentsUseClasses=true
+pygmentsCodeFences=true
+ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
+
+[params.intro]
+  main = ":zap: Sonia Mendizábal :zap:"
+  sub = "Científica de Datos"
+  
+  
+[taxonomies]
+  design = "designs"
+  tech = "techs"
+
+[blackfriday]
+  hrefTargetBlank = true
+
+[params]
+  breadcrumb = true
+  accentColor = "#FD3519"
+  mainSections = ['post'] # values: ['post', 'portfolio'] only accept one section, to be displayed bellow 404
+
+[params.notFound]
+  gopher = "/images/gopher.png" # checkout https://gopherize.me/
+  h1 = 'Nope!'
+  p = "Esta sección no existe... o está en construcción."
+
+[params.sections]
+  # Define how your sections will be called
+  # when automatically pulled. For instance in the 404 page
+  post = "post"
+  portfolio = "proyecto"
+
+[params.sidebar]
+  backgroundImage = "/images/default-sidebar.jpg" # header background image - default "/images/default_sidebar.jpg" - Photo by Tim Marshall on Unsplash
+  gradientOverlay = "" # default: rgba(0,0,0,0.4),rgba(0,0,0,0.4)
+  logo = "/images/son_geomflip.png" # - default "/images/edna-west.jpg"
+[params.assets]
+  favicon = ""
+  customCSS = ""
+
+[params.social]
+  github = "https://github.com/Songeo"
+  twitter = "https://twitter.com/Songeo"
+  linkedin = "https://www.linkedin.com/in/soniamendizabal"
+
+[params.contact]
+  email = "sonia.gmcl@gmail.com"
+  text= "...email me" # text of the contact link in the sidebar. If email params.contact.email is defined
+
+
+[menu]
+
+[[menu.main]]
+  identifier = "acerca"
+  name = "Acerca"
+  title = "Acerca de mí"
+  url = "/acerca/"
+  weight = -120
+
+[[menu.main]]
+  identifier = "blog"
+  name = "Blog"
+  title = "Blog section"
+  url = "/post/"
+  weight = -110
+
+[[menu.main]]
+  identifier = "portfolio"
+  name = "Proyectos"
+  title = "Portafolio"
+  url = "/portfolio/"
+  weight = -100
+
+[[menu.main]]
+  identifier = "cv"
+  name = "Curriculum"
+  title = "CV"
+  url = "/cv/"
+  weight = -90
+
+[[menu.main]]
+  identifier = "contacto"
+  name = "Contacto"
+  title = "Contacto"
+  url = "/contacto/"
+  weight = -80
+
+
+[sitemap]
+  changefreq = "monthly"
+  filename = "sitemap.xml"
+  priority = 0.5
+
+[privacy]
+  [privacy.googleAnalytics]
+    anonymizeIP = true
+    disable = true
+    respectDoNotTrack = true
+    useSessionStorage = false
+  [privacy.twitter]
+    disable = false
+    enableDNT = true
+    simple = false
