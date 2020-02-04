@@ -41,7 +41,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 [params.sidebar]
   backgroundImage = "/images/default-sidebar.jpg" # header background image - default "/images/default_sidebar.jpg" - Photo by Tim Marshall on Unsplash
   gradientOverlay = "" # default: rgba(0,0,0,0.4),rgba(0,0,0,0.4)
-  logo = "/images/son_geomflip.png" # - default "/images/edna-west.jpg"
+  logo = "/images/songeo_pic.png" # - default "/images/edna-west.jpg"
 [params.assets]
   favicon = ""
   customCSS = ""

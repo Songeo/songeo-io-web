@@ -12,7 +12,7 @@ publishDate: '2020-02-01T16:00:04-08:00'
 
 Notas sobre RStudio::conf 2020.
 
-{{< figure src="/post/images/portfolio-example.png" caption="Example of Portfolio page" >}}
+{{< figure src="/post/images/rstudio_conf2020.jpg" caption="Gafete de RStudio::conf" >}}
 
 <!--more-->
 
