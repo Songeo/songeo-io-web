@@ -30,7 +30,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 [params.notFound]
   gopher = "/images/gopher.png" # checkout https://gopherize.me/
   h1 = 'Nope!'
-  p = "Esta sección no existe... o está en construcción."
+  p = "Esta sección está en construcción..."
 
 [params.sections]
   # Define how your sections will be called
