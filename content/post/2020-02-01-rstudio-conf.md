@@ -18,3 +18,8 @@ Notas sobre RStudio::conf 2020.
 
 ## Conferencia Time
 
+
+
+
+Este año la conferencia fue en San Francisco. Y yo tuve el privilegio de asistir gracias a la beca de diversidad (diversity scholarship) que da RStudio. 
+
