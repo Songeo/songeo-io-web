@@ -14,7 +14,7 @@ testimonial:
   role: 
   text: Prow scuttle parrel provost Sail ho shrouds spirits boom mizzenmast yardarm.
     Pinnace holystone mizzenmast quarter crow's nest nipperkin
-thumbnail: sample-project/sample.jpg
+thumbnail: proy-chile-dssg/sample.jpg
 title: Inspecciones en Chile
 work:
 - data science
