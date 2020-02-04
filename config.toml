@@ -24,7 +24,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 
 [params]
   breadcrumb = true
-  accentColor = "#FD3519"
+  accentColor = "#1ebbd7"
   mainSections = ['post'] # values: ['post', 'portfolio'] only accept one section, to be displayed bellow 404
 
 [params.notFound]
