@@ -1,0 +1,27 @@
+---
+title: "Lista de libros"
+author: "SonGeo"
+date: 2020-02-03
+categories: ["R"]
+tags: ["Referencias"]
+---
+
+
+
+Información interesante:
+
+- <https://geocompr.robinlovelace.net/>
+- https://rspatial.org/raster/
+- https://rstudio.github.io/renv/articles/renv.html
+- https://happygitwithr.com/
+- https://community.rstudio.com/t/inserting-citations-and-blogdown/22556/2
+- https://rviews.rstudio.com/2019/06/19/a-gentle-intro-to-tidymodels/
+- https://serialmentor.com/dataviz/
+
+Pasos para crear un blog. 
+
+- https://keen-swartz-3146c4.netlify.com/
+
+Blogdown
+
+- https://bookdown.org/yihui/blogdown/

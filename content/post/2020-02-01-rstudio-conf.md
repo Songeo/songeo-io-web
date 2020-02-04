@@ -6,11 +6,11 @@ slug: rstudio-conf
 categories: [conferencia, viajedecampo]
 tags: [rstats, rstudio]
 description: Aprendizajes de la conferencia anual de RStudio.  
-images: ["/images/sample.jpg"]
+images: ["/images/rstudio_conf2020.jpg"]
 publishDate: '2020-02-01T16:00:04-08:00'
 ---
 
-Notas sobre RStudio::conf 2020.
+Cosas de RStudio::conf 2020.
 
 {{< figure src="/post/images/rstudio_conf2020.jpg" caption="Gafete de RStudio::conf" >}}
 
@@ -19,7 +19,33 @@ Notas sobre RStudio::conf 2020.
 ## Conferencia Time
 
 
+Este año la conferencia fue en San Francisco. Y yo tuve el privilegio de asistir gracias a la beca de diversidad (diversity scholarship) que otorga RStudio. 
 
 
-Este año la conferencia fue en San Francisco. Y yo tuve el privilegio de asistir gracias a la beca de diversidad (diversity scholarship) que da RStudio. 
 
+<https://github.com/rstudio-conf-2020>
+
+<https://github.com/rstudio-conf-2020/geospatial>
+
+<http://brolgar.njtierney.com/>
+
+
+
+<https://rstudio.github.io/bootstraplib/>
+
+<https://github.com/jennybc/debugging#readme>
+
+<https://tidymodels.github.io/tune/>
+
+<https://rviews.rstudio.com/2019/06/19/a-gentle-intro-to-tidymodels/>
+
+<https://keen-swartz-3146c4.netlify.com/>
+
+
+<https://davisvaughan.github.io/slider/>
+
+<https://davisvaughan.github.io/almanac/>
+
+<https://github.com/DavisVaughan/rstudio-conf-2020/>
+
+<https://rstudio.github.io/renv/articles/renv.html>

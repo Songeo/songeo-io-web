@@ -6,7 +6,7 @@ title: INICIO
 
 Hellouuu!
 
-Bienvenidx a esta página. Me presento, mi nombre es **Sonia Georgina** y soy **científica de datos** con algunos años de experiencia en análisis de datos. En esta página podras encontrar proyectos, información y  cosas interesantes de análisis de datos.
+Bienvenidx a esta página. Me presento, mi nombre es **Sonia Georgina** y soy **científica de datos**. En esta página podras encontrar proyectos, información y  cosas interesantes de análisis de datos.
 
 Objetivos: 
 

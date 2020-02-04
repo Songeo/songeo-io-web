@@ -92,7 +92,14 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
   title = "Contacto"
   url = "/contacto/"
   weight = -80
-
+  
+[[menu.main]]
+  identifier = "bookshelf"
+  name = "Biblioteca"
+  title = "Biblioteca"
+  url = "/bookshelf/"
+  weight = -70
+  
 
 [sitemap]
   changefreq = "monthly"
