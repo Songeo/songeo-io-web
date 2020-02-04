@@ -39,9 +39,9 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
   portfolio = "proyecto"
 
 [params.sidebar]
-  backgroundImage = "/images/default-sidebar.jpg" # header background image - default "/images/default_sidebar.jpg" - Photo by Tim Marshall on Unsplash
+  backgroundImage = "/images/default-sidebar.jpg" # header background image - default "themes/personal-web/static/images/default_sidebar.jpg" - Photo by Tim Marshall on Unsplash
   gradientOverlay = "" # default: rgba(0,0,0,0.4),rgba(0,0,0,0.4)
-  logo = "/images/songeo_pic.png" # - default "/images/edna-west.jpg"
+  logo = "/images/songeo_pic.png" # - default "themes/personal-web/static/images/"
 [params.assets]
   favicon = ""
   customCSS = ""
