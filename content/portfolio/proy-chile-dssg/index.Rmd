@@ -9,7 +9,6 @@ techs:
 - machine learning
 - pipeline
 - postgresSQL
-- plotnine
 thumbnail: proy-chile-dssg/chile-project-logos.png
 title: Inspecciones Proactivas en Chile
 work:
@@ -26,8 +25,8 @@ work:
 ### ***Improving Workplace Safety through Proactive Inspections***
 
 ```{r setup, include=FALSE}
-knitr::opts_chunk$set(fig.width = 4, 
-                      fig.height = 4,
+knitr::opts_chunk$set(fig.width = 5, fig.height = 4,
+                      fig.align = "center",
                       collapse = TRUE,
                       echo = FALSE)
 library(tidyverse)
@@ -79,4 +78,6 @@ ggplot(tbl_sim, aes(similarity, risk)) +
 
 ## Referencias 
 
-Código: <https://github.com/dssg/direccion_trabajo_inspections>.
+Código: <https://github.com/dssg/direccion_trabajo_inspections>
+
+Actualización: <https://github.com/dssg/direccion_trabajo_inspections>

@@ -4,13 +4,9 @@ images:
 title: INICIO
 ---
 
-Hellouuu!
+Hellouuu! Bienvenidx a esta página.  
 
-Bienvenidx a esta página. Me presento, mi nombre es **Sonia Georgina** y soy **científica de datos**. En esta página podras encontrar proyectos, información y  cosas interesantes de análisis de datos.
+En el menú :point_left: podrás encontrar **proyectos, información y cosas interesantes** (al menos para mí) de análisis de datos.
 
-Objetivos: 
+En la parte de abajo puedes encontrar la actividad más **reciente** de la página :point_down:
 
-1. Aprender a comunicar lo que aprendo y hago; 
-2. Generar material técnico y más curiosidades en español. 
-
-En el link de abajo puedes encontrar la actividad más reciente de la página. 
