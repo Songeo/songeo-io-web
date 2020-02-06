@@ -13,6 +13,24 @@
     
     
     <item>
+      <title>machine learning</title>
+      <link>/techs/machine-learning/</link>
+      <pubDate>Sat, 01 Feb 2020 15:12:00 +0200</pubDate>
+      
+      <guid>/techs/machine-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>pipeline</title>
+      <link>/techs/pipeline/</link>
+      <pubDate>Sat, 01 Feb 2020 15:12:00 +0200</pubDate>
+      
+      <guid>/techs/pipeline/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>plotnine</title>
       <link>/techs/plotnine/</link>
       <pubDate>Sat, 01 Feb 2020 15:12:00 +0200</pubDate>
