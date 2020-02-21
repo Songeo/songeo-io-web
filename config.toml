@@ -66,38 +66,39 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
   weight = -120
 
 [[menu.main]]
-  identifier = "blog"
-  name = "Blog"
-  title = "Blog section"
-  url = "/post/"
-  weight = -110
-
-[[menu.main]]
   identifier = "portfolio"
   name = "Proyectos"
   title = "Portafolio"
   url = "/portfolio/"
+  weight = -110
+
+[[menu.main]]
+  identifier = "blog"
+  name = "Posts"
+  title = "Blog section"
+  url = "/post/"
   weight = -100
 
-[[menu.main]]
-  identifier = "cv"
-  name = "Curriculum"
-  title = "CV"
-  url = "/cv/"
-  weight = -90
-
-[[menu.main]]
-  identifier = "contacto"
-  name = "Contacto"
-  title = "Contacto"
-  url = "/contacto/"
-  weight = -80
   
 [[menu.main]]
   identifier = "bookshelf"
   name = "Biblioteca"
   title = "Biblioteca"
   url = "/bookshelf/"
+  weight = -90
+  
+[[menu.main]]
+  identifier = "contacto"
+  name = "Contacto"
+  title = "Contacto"
+  url = "/contacto/"
+  weight = -80
+
+[[menu.main]]
+  identifier = "cv"
+  name = "Curriculum"
+  title = "CV"
+  url = "/cv/"
   weight = -70
   
 
