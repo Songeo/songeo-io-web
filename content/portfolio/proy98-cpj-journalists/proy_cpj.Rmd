@@ -1,0 +1,75 @@
+---
+date: "2017-12-01T15:12:00+02:00"
+description: 
+designs:
+jobDate: "Diciembre, 2017"
+projectUrl: https://songeo.shinyapps.io/killedjournalists_app/
+techs:
+- r
+- analisis multivariado
+- analisis de correspondencias
+thumbnail: proy98-cpj-journalists/img/cpj-periodistas.jpg
+title: Impunidad en Asesinatos de Periodistas
+work:
+- violencia
+- periodistas
+- CPJ
+- impunidad
+- data science
+- social good
+bibliography: [docs/bibliography.bib]
+---
+
+
+
+
+
+# ¿Qué está Pasando con los Periodistas en México y en el Mundo?
+
+### ¿What is Happening with Journalists in Mexico and the World?
+
+*Este trabajo se presentó en Open Data Day 2018 en la Ciudad de México*
+
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(fig.width = 5, fig.height = 4,
+                      fig.align = "center",
+                      collapse = TRUE,
+                      echo = FALSE)
+library(tidyverse)
+theme_set(theme_bw())
+```
+
+
+
+### Contexto
+
+En 2017 hubo un pico en los asesinatos de periodistas en México. En las noticias se comparó a México con otros países en guerra. Como parte de un proyecto de la maestría de ciencia de datos iniciamos este análisis de correlaciones de periodistas asesinados y otras variables. 
+
+**Objetivo:** Encontrar la relación de impunidad con otras variables descriptivas:
+
+-source of fire
+-coverages
+-jobs
+-mediums
+-gender
+-type of death
+-tortured
+-captive
+-threatened
+-country killed
+-region
+
+
+El resultado del análisis se presentó en una aplicación de Shiny. Esta se puede acceder mediante el link en la parte superior o en las Referecias.-
+
+
+
+## Referencias 
+
+Código: <https://github.com/Songeo/ca_cpj_journalistskilled>
+
+App: <https://songeo.shinyapps.io/killedjournalists_app/> 
+
+Datos: Censo de periodistas asesinados de enero de 1992 a mayo de 2017 del Comité para la Protección de los Periodistas. <https://cpj.org/>

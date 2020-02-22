@@ -14,12 +14,34 @@
     
     <item>
       <title>Inspecciones Proactivas en Chile</title>
-      <link>/portfolio/proy-chile-dssg/</link>
+      <link>/portfolio/proy97-chile-dssg/proy_chile/</link>
       <pubDate>Sat, 01 Feb 2020 15:12:00 +0200</pubDate>
       
-      <guid>/portfolio/proy-chile-dssg/</guid>
+      <guid>/portfolio/proy97-chile-dssg/proy_chile/</guid>
       <description>Mejorando la Seguridad en el Lugar de Trabajo a través de Inspecciones Proactivas Improving Workplace Safety through Proactive Inspections  Contexto La Dirección del Trabajo, la agencia laboral de Chile, es responsable de reducir los riesgos que enfrentan los trabajadores mediante la realización de inspecciones y correcciones. Sin embargo, por mucho tiempo las inspecciones se han realizado de manera reactiva en respuesta a quejas presentadas ante la Dirección.
 En un esfuerzo para prioriozar los recursos limitados a las instalaciones que más los necesitan, La Dirección del Trabajo y Data Science for Social Good colaboraron para identificar la mayoría de las violaciones dados los recursos limitados empleando herramientas de ciencia de datos y ensayos de campo.</description>
+    </item>
+    
+    <item>
+      <title>Impunidad en Asesinatos de Periodistas</title>
+      <link>/portfolio/proy98-cpj-journalists/proy_cpj/</link>
+      <pubDate>Fri, 01 Dec 2017 15:12:00 +0200</pubDate>
+      
+      <guid>/portfolio/proy98-cpj-journalists/proy_cpj/</guid>
+      <description>¿Qué está Pasando con los Periodistas en México y en el Mundo? ¿What is Happening with Journalists in Mexico and the World? Este trabajo se presentó en Open Data Day 2018 en la Ciudad de México
+ Contexto En 2017 hubo un pico en los asesinatos de periodistas en México. En las noticias se comparó a México con otros países en guerra. Como parte de un proyecto de la maestría de ciencia de datos iniciamos este análisis de correlaciones de periodistas asesinados y otras variables.</description>
+    </item>
+    
+    <item>
+      <title>Bookdown de Taller de R</title>
+      <link>/portfolio/proy99-rworkshop/proy_rworkshop/</link>
+      <pubDate>Thu, 05 Oct 2017 15:12:00 +0200</pubDate>
+      
+      <guid>/portfolio/proy99-rworkshop/proy_rworkshop/</guid>
+      <description> Taller de Introducción a R Este taller se presentó a alumnos de licenciatura del ITAM en la Ciudad de México como apoyo al Departamento de Estadística
+Referencias Código: https://github.com/dssg/direccion_trabajo_inspections
+Actualización: https://github.com/dssg/direccion_trabajo_inspections
+  </description>
     </item>
     
   </channel>

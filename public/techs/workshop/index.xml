@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>workshop on SonGeo</title>
+    <link>/techs/workshop/</link>
+    <description>Recent content in workshop on SonGeo</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>sp</language>
+    <copyright>©SonGeo</copyright>
+    <lastBuildDate>Thu, 05 Oct 2017 15:12:00 +0200</lastBuildDate>
+    
+	<atom:link href="/techs/workshop/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Bookdown de Taller de R</title>
+      <link>/portfolio/proy99-rworkshop/proy_rworkshop/</link>
+      <pubDate>Thu, 05 Oct 2017 15:12:00 +0200</pubDate>
+      
+      <guid>/portfolio/proy99-rworkshop/proy_rworkshop/</guid>
+      <description> Taller de Introducción a R Este taller se presentó a alumnos de licenciatura del ITAM en la Ciudad de México como apoyo al Departamento de Estadística
+Referencias Código: https://github.com/dssg/direccion_trabajo_inspections
+Actualización: https://github.com/dssg/direccion_trabajo_inspections
+  </description>
+    </item>
+    
+  </channel>
+</rss>

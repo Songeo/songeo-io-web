@@ -3,4 +3,4 @@ description: Proyectos
 title: PROYECTOS
 ---
 
-Portafolio con algunos proyectos en los que he participado. 
+Lista de algunos proyectos en los que he participado.

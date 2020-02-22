@@ -48,5 +48,50 @@
       <description></description>
     </item>
     
+    <item>
+      <title>analisis de correspondencias</title>
+      <link>/techs/analisis-de-correspondencias/</link>
+      <pubDate>Fri, 01 Dec 2017 15:12:00 +0200</pubDate>
+      
+      <guid>/techs/analisis-de-correspondencias/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>analisis multivariado</title>
+      <link>/techs/analisis-multivariado/</link>
+      <pubDate>Fri, 01 Dec 2017 15:12:00 +0200</pubDate>
+      
+      <guid>/techs/analisis-multivariado/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>r</title>
+      <link>/techs/r/</link>
+      <pubDate>Fri, 01 Dec 2017 15:12:00 +0200</pubDate>
+      
+      <guid>/techs/r/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>taller</title>
+      <link>/techs/taller/</link>
+      <pubDate>Thu, 05 Oct 2017 15:12:00 +0200</pubDate>
+      
+      <guid>/techs/taller/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>workshop</title>
+      <link>/techs/workshop/</link>
+      <pubDate>Thu, 05 Oct 2017 15:12:00 +0200</pubDate>
+      
+      <guid>/techs/workshop/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>

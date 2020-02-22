@@ -9,14 +9,17 @@ techs:
 - machine learning
 - pipeline
 - postgresSQL
-thumbnail: proy-chile-dssg/chile-project-logos.png
+thumbnail: proy97-chile-dssg/img/chile-project-logos.png
 title: Inspecciones Proactivas en Chile
 work:
 - data science
 - social good
 - propensity score
-- DSSG Fellowship
+- DSSG fellowship
+bibliography: [docs/bibliography.bib]
 ---
+
+
 
 
 
@@ -41,11 +44,16 @@ La Dirección del Trabajo,  la agencia laboral de Chile, es responsable de reduc
 
 En un esfuerzo para prioriozar los recursos limitados a las instalaciones que más los necesitan, La Dirección del Trabajo y Data Science for Social Good colaboraron para identificar la mayoría de las violaciones dados los recursos limitados empleando herramientas de ciencia de datos y ensayos de campo. 
 
+
+
+### Planteamiento 
+
 En la elabroación del proyecto se utilizaron registros históricos de violaciones y seguridad, así como datos comerciales, tributarios, geográficos y de otro tipo para ayudar a mejorar la identificación del objetivo de inspección. 
 
-El **objetivo principal** es construir un sistema que movilice las inspecciones a un esquema de **proactividad** para disuadir a futuros infractores y prevenir fatalidades.
+El **propósito** es construir un sistema que movilice las inspecciones a un esquema de **proactividad** para disuadir a futuros infractores y prevenir fatalidades.
 
 
+Help the Department of Labor (DT) in Chile improve workplace safety by creating a data-driven approach to prioritize inspections
 
 ### Problema técnico
 
@@ -76,7 +84,25 @@ ggplot(tbl_sim, aes(similarity, risk)) +
 
 
 
+
+Leer [@sarndal92]
+
+
+## Metodología
+
+
+
+## Procedimiento
+
+
+## Resultados
+
+
+
+
 ## Referencias 
+
+
 
 Código: <https://github.com/dssg/direccion_trabajo_inspections>
 

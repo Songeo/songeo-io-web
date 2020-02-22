@@ -22,14 +22,13 @@ Cosas de RStudio::conf 2020.
 Este año la conferencia fue en San Francisco. Y yo tuve el privilegio de asistir gracias a la beca de diversidad (diversity scholarship) que otorga RStudio. 
 
 
+Estos son algunos links interesantes que definitivamente van a la biblioteca:
 
 <https://github.com/rstudio-conf-2020>
 
 <https://github.com/rstudio-conf-2020/geospatial>
 
 <http://brolgar.njtierney.com/>
-
-
 
 <https://rstudio.github.io/bootstraplib/>
 
@@ -40,7 +39,6 @@ Este año la conferencia fue en San Francisco. Y yo tuve el privilegio de asisti
 <https://rviews.rstudio.com/2019/06/19/a-gentle-intro-to-tidymodels/>
 
 <https://keen-swartz-3146c4.netlify.com/>
-
 
 <https://davisvaughan.github.io/slider/>
 
