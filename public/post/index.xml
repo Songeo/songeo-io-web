@@ -7,11 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>sp</language>
     <copyright>©SonGeo</copyright>
-    <lastBuildDate>Sat, 01 Feb 2020 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Sat, 01 Feb 2020 00:00:00 +0000</lastBuildDate><atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>RStudio::conf 2020</title>
       <link>/post/rstudio-conf/</link>
@@ -19,9 +15,8 @@
       
       <guid>/post/rstudio-conf/</guid>
       <description>&lt;p&gt;Cosas de RStudio::conf 2020.&lt;/p&gt;
-&lt;figure&gt;
-    &lt;img src=&#34;/post/images/rstudio_conf2020.jpg&#34;
-         alt=&#34;Gafete de RStudio::conf&#34;/&gt; &lt;figcaption&gt;
+&lt;figure&gt;&lt;img src=&#34;/post/images/rstudio_conf2020.jpg&#34;
+         alt=&#34;Gafete de RStudio::conf&#34;/&gt;&lt;figcaption&gt;
             &lt;p&gt;Gafete de RStudio::conf&lt;/p&gt;
         &lt;/figcaption&gt;
 &lt;/figure&gt;</description>

@@ -7,11 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>sp</language>
     <copyright>©SonGeo</copyright>
-    <lastBuildDate>Mon, 03 Feb 2020 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Mon, 03 Feb 2020 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Lista de libros</title>
       <link>/bookshelf/booklist/</link>
@@ -19,9 +15,9 @@
       
       <guid>/bookshelf/booklist/</guid>
       <description> Información interesante:
- https://geocompr.robinlovelace.net/ https://rspatial.org/raster/ https://rstudio.github.io/renv/articles/renv.html https://happygitwithr.com/ https://community.rstudio.com/t/inserting-citations-and-blogdown/22556/2 https://rviews.rstudio.com/2019/06/19/a-gentle-intro-to-tidymodels/ https://serialmentor.com/dataviz/  Pasos para crear un blog.
- https://keen-swartz-3146c4.netlify.com/  Blogdown
- https://bookdown.org/yihui/blogdown/  </description>
+https://geocompr.robinlovelace.net/ https://rspatial.org/raster/ https://rstudio.github.io/renv/articles/renv.html https://happygitwithr.com/ https://community.rstudio.com/t/inserting-citations-and-blogdown/22556/2 https://rviews.rstudio.com/2019/06/19/a-gentle-intro-to-tidymodels/ https://serialmentor.com/dataviz/ Pasos para crear un blog.
+https://keen-swartz-3146c4.netlify.com/ Blogdown
+https://bookdown.org/yihui/blogdown/ </description>
     </item>
     
     <item>
@@ -30,7 +26,7 @@
       <pubDate>Sat, 01 Feb 2020 15:12:00 +0200</pubDate>
       
       <guid>/portfolio/proy97-chile-dssg/proy_chile/</guid>
-      <description>Mejorando la Seguridad en el Lugar de Trabajo a través de Inspecciones Proactivas Improving Workplace Safety through Proactive Inspections  Contexto La Dirección del Trabajo, la agencia laboral de Chile, es responsable de reducir los riesgos que enfrentan los trabajadores mediante la realización de inspecciones y correcciones. Sin embargo, por mucho tiempo las inspecciones se han realizado de manera reactiva en respuesta a quejas presentadas ante la Dirección.
+      <description>Mejorando la Seguridad en el Lugar de Trabajo a través de Inspecciones Proactivas Improving Workplace Safety through Proactive Inspections Contexto La Dirección del Trabajo, la agencia laboral de Chile, es responsable de reducir los riesgos que enfrentan los trabajadores mediante la realización de inspecciones y correcciones. Sin embargo, por mucho tiempo las inspecciones se han realizado de manera reactiva en respuesta a quejas presentadas ante la Dirección.
 En un esfuerzo para prioriozar los recursos limitados a las instalaciones que más los necesitan, La Dirección del Trabajo y Data Science for Social Good colaboraron para identificar la mayoría de las violaciones dados los recursos limitados empleando herramientas de ciencia de datos y ensayos de campo.</description>
     </item>
     
@@ -41,9 +37,8 @@ En un esfuerzo para prioriozar los recursos limitados a las instalaciones que m�
       
       <guid>/post/rstudio-conf/</guid>
       <description>&lt;p&gt;Cosas de RStudio::conf 2020.&lt;/p&gt;
-&lt;figure&gt;
-    &lt;img src=&#34;/post/images/rstudio_conf2020.jpg&#34;
-         alt=&#34;Gafete de RStudio::conf&#34;/&gt; &lt;figcaption&gt;
+&lt;figure&gt;&lt;img src=&#34;/post/images/rstudio_conf2020.jpg&#34;
+         alt=&#34;Gafete de RStudio::conf&#34;/&gt;&lt;figcaption&gt;
             &lt;p&gt;Gafete de RStudio::conf&lt;/p&gt;
         &lt;/figcaption&gt;
 &lt;/figure&gt;</description>
@@ -56,7 +51,7 @@ En un esfuerzo para prioriozar los recursos limitados a las instalaciones que m�
       
       <guid>/portfolio/proy98-cpj-journalists/proy_cpj/</guid>
       <description>¿Qué está Pasando con los Periodistas en México y en el Mundo? ¿What is Happening with Journalists in Mexico and the World? Este trabajo se presentó en Open Data Day 2018 en la Ciudad de México
- Contexto En 2017 hubo un pico en los asesinatos de periodistas en México. En las noticias se comparó a México con otros países en guerra. Como parte de un proyecto de la maestría de ciencia de datos iniciamos este análisis de correlaciones de periodistas asesinados y otras variables.</description>
+Contexto En 2017 hubo un pico en los asesinatos de periodistas en México. En las noticias se comparó a México con otros países en guerra. Como parte de un proyecto de la maestría de ciencia de datos iniciamos este análisis de correlaciones de periodistas asesinados y otras variables.</description>
     </item>
     
     <item>
@@ -65,10 +60,9 @@ En un esfuerzo para prioriozar los recursos limitados a las instalaciones que m�
       <pubDate>Thu, 05 Oct 2017 15:12:00 +0200</pubDate>
       
       <guid>/portfolio/proy99-rworkshop/proy_rworkshop/</guid>
-      <description> Taller de Introducción a R Este taller se presentó a alumnos de licenciatura del ITAM en la Ciudad de México como apoyo al Departamento de Estadística
+      <description>Taller de Introducción a R Este taller se presentó a alumnos de licenciatura del ITAM en la Ciudad de México como apoyo al Departamento de Estadística
 Referencias Código: https://github.com/dssg/direccion_trabajo_inspections
-Actualización: https://github.com/dssg/direccion_trabajo_inspections
-  </description>
+Actualización: https://github.com/dssg/direccion_trabajo_inspections</description>
     </item>
     
   </channel>

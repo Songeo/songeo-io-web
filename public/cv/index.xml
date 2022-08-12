@@ -6,10 +6,6 @@
     <description>Recent content in CV on SonGeo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>sp</language>
-    <copyright>©SonGeo</copyright>
-    
-	<atom:link href="/cv/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <copyright>©SonGeo</copyright><atom:link href="/cv/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

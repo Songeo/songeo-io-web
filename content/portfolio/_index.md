@@ -1,6 +1,19 @@
 ---
-description: Proyectos
-title: PROYECTOS
+description: Projects
+title: PORTFOLIO
 ---
 
-Lista de algunos proyectos en los que he participado.
+List of industry projects.
+
+![Industry](./img/industry_projects.jpeg)
+
+
+
+List of research projects.
+
+![Research](./img/research_projects.jpeg)
+
+
+
+Some projects are described in the following links
+
