@@ -12,7 +12,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 
 [params.intro]
   main = "Sonia Mendizábal" #:zap
-  sub = "Data Scientist"
+  sub = ":sparkles: Data Scientist :sparkles:"
   
   
 [taxonomies]
