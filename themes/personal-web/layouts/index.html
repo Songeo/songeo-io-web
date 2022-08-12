@@ -3,11 +3,11 @@
 <h1>{{ .Title | markdownify }}</h1>
 {{ .Content }}
 
-<h2>Reciente</h2>
+<h2> </h2>
   {{ $pages := where site.RegularPages "Type" "in" .Site.Params.mainSections }}
   {{ range first 1 $pages }}
-    {{ if in .Site.Params.mainSections "portfolio" }}
-      {{ partial "portfolio/item" .}}
+    {{ if in .Site.Params.mainSections "about" }}
+      {{ partial "about" .}}
     {{ else if in .Site.Params.mainSections "post" }}
       {{ partial "post/item" .}}
     {{ end }}

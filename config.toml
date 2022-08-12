@@ -35,7 +35,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 [params.sections]
   # Define how your sections will be called
   # when automatically pulled. For instance in the 404 page
-  post = "post"
+  about = "about"
   portfolio = "portfolio"
 
 [params.sidebar]
@@ -73,18 +73,20 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
   weight = -110
   
 [[menu.main]]
-  identifier = "contact"
-  name = "contact"
-  title = "contact"
-  url = "/contact/"
-  weight = -80
-
-[[menu.main]]
   identifier = "cv"
   name = "curriculum"
   title = "curriculum"
   url = "/cv/"
+  weight = -80
+  
+[[menu.main]]
+  identifier = "contact"
+  name = "contact"
+  title = "contact"
+  url = "/contact/"
   weight = -70
+
+
   
   
 #[[menu.main]]
