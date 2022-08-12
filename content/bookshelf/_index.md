@@ -1,10 +1,10 @@
 ---
-description: Libros interesantes
+description: Resources
 images:
-title: BIBLIOTECA
+title: library
 ---
 
-Link a libros interesantes. 
+Link to interesting resources. 
 
 
 

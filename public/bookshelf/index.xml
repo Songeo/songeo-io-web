@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>BIBLIOTECA on SonGeo</title>
+    <title>library on SonGeo</title>
     <link>/bookshelf/</link>
-    <description>Recent content in BIBLIOTECA on SonGeo</description>
+    <description>Recent content in library on SonGeo</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>sp</language>
+    <language>en</language>
     <copyright>©SonGeo</copyright>
     <lastBuildDate>Mon, 03 Feb 2020 00:00:00 +0000</lastBuildDate><atom:link href="/bookshelf/index.xml" rel="self" type="application/rss+xml" />
     <item>

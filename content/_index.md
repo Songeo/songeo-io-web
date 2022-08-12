@@ -1,12 +1,12 @@
 ---
-description: Inicio
+description: Home
 images:
-title: INICIO
+title: home
 ---
 
-Hellouuu! Bienvenidx a esta página.  
+Hello! Welcome to my site. 
 
-En el menú :point_left: podrás encontrar **proyectos, información y cosas interesantes** (al menos para mí) de análisis de datos.
+Here  :point_left: you'll find projects I've worked on. Some 
+projects I found interesting and more data stuff.
 
-En la parte de abajo puedes encontrar la actividad más **reciente** de la página :point_down:
 

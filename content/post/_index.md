@@ -1,6 +1,5 @@
 ---
-description: Sección de artículos
-title: BLOG
+description: some posts
+title: posts
 ---
 
-En esta sección se encuentran artículos.

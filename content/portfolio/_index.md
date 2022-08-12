@@ -1,6 +1,6 @@
 ---
 description: Projects
-title: PORTFOLIO
+title: portfolio
 ---
 
 List of industry projects.
