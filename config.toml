@@ -79,12 +79,12 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
   url = "/cv/"
   weight = -80
   
-[[menu.main]]
-  identifier = "contact"
-  name = "contact"
-  title = "contact"
-  url = "/contact/"
-  weight = -70
+#[[menu.main]]
+#  identifier = "contact"
+#  name = "contact"
+#  title = "contact"
+#  url = "/contact/"
+#  weight = -70
 
 
   
