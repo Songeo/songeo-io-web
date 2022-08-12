@@ -11,7 +11,7 @@ pygmentsCodeFences=true
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 
 [params.intro]
-  main = ":zap: Sonia Mendizábal :zap:"
+  main = "Sonia Mendizábal" #:zap
   sub = "Data Scientist"
   
   
