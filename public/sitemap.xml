@@ -97,10 +97,6 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>/about/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
     <loc>/contact/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -110,6 +106,10 @@
     <priority>0.5</priority>
   </url><url>
     <loc>/designs/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>/experience/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>

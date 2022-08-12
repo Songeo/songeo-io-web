@@ -2,20 +2,19 @@
 description: Hello
 images:
 - /images/sample.jpg
-title: about
+title: experience
 ---
 
 
-I've worked in data for over 10 years within 
-multidisciplinary teams implementing data solutions in multiple industries. 
+I've worked with data for over 10 years within 
+multidisciplinary teams implementing **data solutions** in multiple industries. 
 
 
+- Committed to building data science **solutions**
+- **Liaison** between consultants and clients for technical aspects
+- Advocate of reproducible and collaborative **workflows**
 
-- Committed to building data science solutions
-- Liaison between consultants and clients for technical aspects
-- Advocate of reproducible and collaborative workflows
-
-As a consultant, I've developed the ability to manage multiple data projects effectively. 
+As a consultant, I've developed the ability to **manage** multiple data projects effectively. 
 I've participated in data analysis pipelines co-creation, collaboration and monitoring.
 
 During these years I've worked on **methodologies** like:
