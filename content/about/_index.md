@@ -29,6 +29,6 @@ During these years I've worked on **methodologies** like:
   * statistical design experimentation and other causal inference
 
 
-:school:
+
 
 ![@quesita](../img/ds_adventure.png)
