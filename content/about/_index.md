@@ -6,8 +6,26 @@ title: about
 ---
 
 
-My name is **Sonia Georgina**. I'm a Data Scientist - Data Enthusiast - Stats Lover <3
+I've worked in data for over 10 years within 
+multidisciplinary teams implementing data solutions in multiple industries. 
 
-I've work with data for 10 years in multiple industries. 
+- Committed to building data science solutions. 
+- Liaison between consultants and clients for technical aspects. 
+- Advocate of reproducible and collaborative workflows.
 
-Committed to building data science solutions within multi disciplinary teams. Motivated by challenging projects. Enthusiastic to implement breakthrough  methodologies. Focused on causal modeling, hierarchical modeling, forecast and spatial modeling, optimization, ml and knowledge transfer.
+As a consultant, I've developed the ability to manage multiple data projects effectively. 
+I've participated in data analysis pipelines co-creation, collaboration and monitoring.
+
+During these years I've implemented methodologies like:
+
+  * advanced statistical bayesian modeling, frequentist and non parametric approach,
+  * machine learning classification,
+  * similarity algorithms,
+  * association rules,
+  * forecasting algorithms,
+  * time series and longitudinal analysis,
+  * statistical design experimentation and other causal inference.
+
+
+![mm](../img/ds_adventure.png)
+[Illustration by @quesita]()
