@@ -29,6 +29,7 @@ During these years I've worked on **methodologies** like:
   * statistical design experimentation and other causal inference
 
 
+![Illustration by Allison Horst](../img/something_new.png)
+[Illustration by @allisonhorst](https://twitter.com/allison_horst)
 
 
-![@quesita](../img/ds_adventure.png)
