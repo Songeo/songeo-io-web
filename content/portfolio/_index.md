@@ -5,15 +5,15 @@ title: portfolio
 
 List of industry projects.
 
-![Industry](./img/industry_projects.jpeg)
+![Industry](./files/industry_portfolio.jpeg)
 
 
 
 List of research projects.
 
-![Research](./img/research_projects.jpeg)
+![Research](./files/research_portfolio.jpeg)
 
 
 
-Some projects are described in the following links
+Some projects are described in the following links.
 

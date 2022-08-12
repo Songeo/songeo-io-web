@@ -20,7 +20,7 @@ I've participated in data analysis pipelines co-creation, collaboration and moni
 
 During these years I've worked on **methodologies** like:
 
-  * advanced statistical bayesian modeling, frequentist and non parametric approach,
+  * statistical bayesian modeling, frequentist and non parametric approach,
   * machine learning classification
   * similarity algorithms
   * association rules
