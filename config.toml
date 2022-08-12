@@ -51,13 +51,14 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
   twitter = "https://twitter.com/Songeo"
   linkedin = "https://www.linkedin.com/in/soniamendizabal"
 
-[params.contact]
-  email = "sonia.gmcl@gmail.com"
-  text= "email me" # text of the contact link in the sidebar. If email params.contact.email is defined
+#[params.contact]
+#  email = "sonia.gmcl@gmail.com"
+#  text= "email me" # text of the contact link in the sidebar. If email params.contact.email is defined
 
 
 [menu]
 
+  
 [[menu.main]]
   identifier = "about"
   name = "about"
